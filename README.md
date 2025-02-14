@@ -21,13 +21,13 @@
 
 ## Використані команди Git  
 ```bash
-git init          # Ініціалізація репозиторію  
-git status        # Перевірка стану файлів  
-git add .         # Додавання файлів до індексу  
-git commit -m "Опис змін"  # Фіксація змін  
-git remote add origin <URL>  # Додавання віддаленого репозиторію  
-git push -u origin main  # Відправлення змін на GitHub  
-git pull         # Отримання змін з віддаленого репозиторію  
-git branch       # Перегляд та створення гілок  
+git init          
+git status        
+git add .           
+git commit -m 
+git remote add origin <URL>  
+git push -u origin main    
+git pull           
+git branch         
 ```
 Виконав : Шарапов Данило
